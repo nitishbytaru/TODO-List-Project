@@ -1,0 +1,40 @@
+*{
+    background-color: #CB793A;
+    margin: 0px;
+}
+.full{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 60px 0px;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    color: #9A031E;
+}
+.tasks{
+    color: #F9DEC9;
+}
+.splBtn{
+    margin-top: 16px;
+    float: right;
+    font-size: 1rem;
+}
+.splLi{
+    font-size: 2rem;
+}
+.text{
+    border-radius: 15px;
+    font-size: 1.6rem;
+    background-color: #FCDC4D;
+    color: #321325;
+    border: none;
+}
+.text::placeholder{
+    text-align: center;
+}
+.btn{
+    margin: 0px 0px 15px 10px;
+}
